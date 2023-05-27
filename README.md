@@ -1,4 +1,4 @@
 работы по "Системной и Программной инженерии"
 
-lab5 - Интеграция RabbitMQ с Java Spring
-lab6 - Spring Integration + Redis
+lab5 - Интеграция RabbitMQ с Java Spring (+docker-compose.yml); 
+lab6 - Spring Integration + Redis; lab7 - Elasticsearch.
